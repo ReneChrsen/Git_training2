@@ -10,4 +10,7 @@ git rm --cached Only_for_local_use.R
 git clone https://github.com/ReneChrsen/Git_training2.git
 
 
-## these two lines solved the issue immediately 
+## these two lines solved the issue immediately
+
+
+## Another issue with setting up for the API was dealt with after using the fine-graind token and not the classic
